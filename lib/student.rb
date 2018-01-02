@@ -5,7 +5,7 @@ def initialize
 end
 
 def learn(knowledge)
-  @knowlege<<knowledge
+  @knowledge<<knowledge
 end
 
 end
